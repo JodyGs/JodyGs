@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!-- 📫 How to reach me :
  -->
 
+<!-- 
+🛠 Languages and Tools : -->
 
-🛠 Languages and Tools :
-
-
+<!-- 
 <img align='left' alt='VsCode' width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align='left' alt='Webstorm' width="25px" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
 <img align='left' alt='html 5' width="25px" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 <img align='left' alt='TypeScript' width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align='left' alt='React' width="25px" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align='left' alt='Nextjs' width="25px" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align='left' alt='Git' width="25px" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align='left' alt='Git' width="25px" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> -->
 <!-- <img align='left' alt='Nodejs' width="25px" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
-<img align='left' alt='Tailwind Css' width="25px" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align='left' alt='Bootstrap' width="25px" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<!-- <img align='left' alt='Tailwind Css' width="25px" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align='left' alt='Bootstrap' width="25px" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> -->
           
           
           
